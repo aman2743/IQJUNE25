@@ -1,0 +1,10 @@
+Arithmetic Operators:
+*, +,-,/,%
+Assignment Operator:
+       int x=10;
+        int y;
+        y=x-- - --x + ++x - --x;
+         y=x-- - x-- + ++x - x--;
+         y=x-- + x++ + ++x - x-- - --x;
+         y=++x - --x + ++x - x++;
+         y=++x - ++x - ++x - ++x;
