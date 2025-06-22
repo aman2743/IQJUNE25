@@ -19,7 +19,7 @@ public class Aman1 {
                     System.out.println("Moderate Usage    ");
                 }
             } else {
-                System.out.println("High Usage");
+                System.out.println("High Usage is ");
             }
         }
 
