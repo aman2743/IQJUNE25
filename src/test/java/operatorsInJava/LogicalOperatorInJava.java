@@ -13,6 +13,7 @@ public class LogicalOperatorInJava {
         System.out.println(x==20 || y==11);
         System.out.println(x==20 && y==10);
         System.out.println(x==20 || y==10);
+        System.out.println(x==20 || y==10);
         System.out.println((x==20 || y==10)&&z==31);
         System.out.println((x==20 || y==10)&&z==30);
     }
