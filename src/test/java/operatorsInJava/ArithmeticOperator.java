@@ -18,7 +18,7 @@ public class ArithmeticOperator {
 
         int d=y%x;
         System.out.println(d);
-        System.out.println("hellom");
+        System.out.println("hell");
 
         float f1=123.45f;
         float f2=23.499f;
