@@ -14,8 +14,8 @@ public class ArithmeticOperator {
         System.out.println(a);
         int b=x*y;
         System.out.println(b);
-        int c=y/x;
-        System.out.println(c);
+
+
         int d=y%x;
         System.out.println(d);
         System.out.println("hellom");
