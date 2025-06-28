@@ -20,7 +20,7 @@ public class ArithmeticOperator {
         System.out.println(d);
 
         float f1=123.45f;
-        float f2=23.49-f;
+        float f2=23.499f;
         float f=f1-f2;
         System.out.println(f);
 
