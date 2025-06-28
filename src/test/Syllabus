@@ -8,3 +8,8 @@ Assignment Operator:
          y=x-- + x++ + ++x - x-- - --x;
          y=++x - --x + ++x - x++;
          y=++x - ++x - ++x - ++x;
+
+Statements in java
+1. Expression Statement : x=y+z
+2. Declaration Statements : int x=10;
+3. Control Statements
