@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Aman {
+public class Aman1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -19,7 +19,7 @@ public class Aman {
                     System.out.println("Moderate Usage    ");
                 }
             } else {
-                System.out.println("High Usage");
+                System.out.println("High Usage is ");
             }
         }
 
