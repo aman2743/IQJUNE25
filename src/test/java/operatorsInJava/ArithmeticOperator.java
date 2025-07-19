@@ -10,7 +10,7 @@ public class ArithmeticOperator {
         int h1=x+y+h;
         System.out.println(h1);
         System.out.println(z);
-        System.out.println(a);
+        System.out.println(h);
         int b=x*y;
         System.out.println(b);
         int c=y/x;
