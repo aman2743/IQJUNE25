@@ -22,8 +22,7 @@ public class OberloadingInJava {
 
     public static void main(String[] args) {
         OberloadingInJava obj=new OberloadingInJava();
-        obj.add('c');
-        obj.add(12.5f,12.5f);
+        obj.add(12,13);
     }
 
 
