@@ -1,4 +1,4 @@
-package AbstractionInJava;
+package accessModifierInJava.AbstractionInJava;
 abstract class WebDriverEx{
     abstract void findElement();
     abstract void driverQuit();
