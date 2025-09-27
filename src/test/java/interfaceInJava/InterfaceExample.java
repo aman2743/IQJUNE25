@@ -17,7 +17,7 @@ interface Animal {
 }
 interface WildAnimal {
     // Abstract method (no body)
-    void eat1();
+    void eat1();git push
     void sleep1();
 
     // Default method (with a body)
