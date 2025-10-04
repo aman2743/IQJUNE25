@@ -1,4 +1,4 @@
-package AbstractionInJava;
+package accessModifierInJava.AbstractionInJava;
 
 abstract class vehicle{
     int no_of_tyres;
