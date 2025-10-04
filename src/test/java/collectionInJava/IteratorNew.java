@@ -22,7 +22,7 @@ public class IteratorNew {
 
         Iterator<Integer> itr=al3.iterator();
         while(itr.hasNext()){
-            Integer val=(Integer)itr.next();
+            Integer val=(Integer)(itr.next());
             if(val%2==0) {
             }
              else{
