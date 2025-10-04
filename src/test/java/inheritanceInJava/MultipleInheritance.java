@@ -23,8 +23,6 @@ class CCC extends AAA{
     }
 }
 
-
-
 public class MultipleInheritance {
     public static void main(String[] args) {
         C obj=new C();
