@@ -1,5 +1,6 @@
 package collectionInJava;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
@@ -14,8 +15,9 @@ public class BasicCollection {
         al.add(null);
         al.add(0,'A');
         al.add(2,'B');
+        al.remove(0);
         System.out.println(al);
-//        System.out.println(al.toString());
+        System.out.println(al.toString());
 
 
 

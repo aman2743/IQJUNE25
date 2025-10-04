@@ -17,7 +17,7 @@ public class iteratorInJava {
 //        System.out.println(al3);
         Iterator itr=al3.iterator();
         while(itr.hasNext()){
-            Integer i=(Integer)itr.next();
+            Integer i=(Integer)(itr.next());
             System.out.println(i+10);
         }
 
