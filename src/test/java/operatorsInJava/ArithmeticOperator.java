@@ -10,8 +10,7 @@ public class ArithmeticOperator {
         int h1=x+y+h;
         System.out.println(h1);
         System.out.println(z);
-        int a=x-y;
-        System.out.println(a);
+        System.out.println(h);
         int b=x*y;
         System.out.println(b);
         int c=y/x;
@@ -23,6 +22,8 @@ public class ArithmeticOperator {
         float f2=23.45f;
         float f=f1-f2;
         System.out.println(f);
+
+        System.out.println("rahhul");
 
 
     }
