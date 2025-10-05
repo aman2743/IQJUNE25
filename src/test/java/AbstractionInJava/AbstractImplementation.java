@@ -28,10 +28,10 @@ class bike extends vehicle{
 public class AbstractImplementation {
 
     public static void main(String[] args) {
-        car c= new car();
+        car c = new car();
         c.start();
 
-        bike b= new bike();
+        bike b = new bike();
         b.start();
 
     }
