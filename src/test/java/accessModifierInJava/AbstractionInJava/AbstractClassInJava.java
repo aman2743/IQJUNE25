@@ -1,4 +1,4 @@
-package AbstractionInJava;
+package accessModifierInJava.AbstractionInJava;
 
 public abstract class AbstractClassInJava {
     public void display(){
